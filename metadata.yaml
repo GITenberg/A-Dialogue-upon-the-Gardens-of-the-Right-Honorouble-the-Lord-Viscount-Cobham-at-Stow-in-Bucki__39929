@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '40314'
     url: http://www.gutenberg.org/2009/agents/40314
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39929#A-Dialogue-upon-the-Gardens-of-the-Right-Honorouble-the-Lord-Viscount-Cobham-at-Stow-in-Bucki_
 gutenberg_issued: '2012-06-06'
 gutenberg_type: Text
 identifiers:
