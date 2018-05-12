@@ -1,0 +1,36 @@
+_repo: A-Dialogue-upon-the-Gardens-of-the-Right-Honorouble-the-Lord-Viscount-Cobham-at-Stow-in-Bucki__39929
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilpin, William
+    alias: Frampton, Josiah
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '40313'
+    url: http://www.gutenberg.org/2009/agents/40313
+    wikipedia: http://en.wikipedia.org/wiki/William_Gilpin_(priest)
+  editor:
+    agent_name: Hunt, John Dixon
+    birthdate: 1936
+    gutenberg_agent_id: '40314'
+    url: http://www.gutenberg.org/2009/agents/40314
+description: ''
+gutenberg_issued: '2012-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 176
+subjects:
+- !lcsh 'Landscape gardening -- Early works to 1800'
+- !lcsh 'Cobham, Richard Temple, Viscount, 1669?-1749'
+- !lcc 'SB'
+title: A Dialogue upon the Gardens of the Right Honorouble the Lord Viscount Cobham
+  at Stow in Buckinghamshire
+url: http://www.gutenberg.org/ebooks/39929
